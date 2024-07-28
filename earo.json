@@ -95,9 +95,9 @@
         "terminal.ansi.bright_black": "#424242",
         "terminal.ansi.dim_black": "#000000",
         
-        "terminal.ansi.red": "#d07277ff",
-        "terminal.ansi.bright_red": "#673a3cff",
-        "terminal.ansi.dim_red": "#eab7b9ff",
+        "terminal.ansi.red": "#cc0000",
+        "terminal.ansi.bright_red": "#ff0000",
+        "terminal.ansi.dim_red": "#ff555b",
         
         "terminal.ansi.green": "#529148",
         "terminal.ansi.bright_green": "#a1c181",
@@ -107,8 +107,8 @@
         "terminal.ansi.bright_yellow": "#ffff00",
         "terminal.ansi.dim_yellow": "#f6ff74",
         
-        "terminal.ansi.blue": "#74ade8ff",
-        "terminal.ansi.bright_blue": "#385378ff",
+        "terminal.ansi.blue": "#0004ff",
+        "terminal.ansi.bright_blue": "#0088ff",
         "terminal.ansi.dim_blue": "#bed5f4ff",
         
         "terminal.ansi.magenta": "#ea0a8e",
@@ -129,7 +129,7 @@
         "conflict.background": "#dec1841a",
         "conflict.border": "#5d4c2fff",
         
-        "created": "#ffffff",
+        "created": "#529148",
         "created.background": "#a1c1811a",
         "created.border": "#38482fff",
         
@@ -240,7 +240,7 @@
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#569c7b",
+            "color": "#1abd43",
             "font_style": null,
             "font_weight": null
           },
